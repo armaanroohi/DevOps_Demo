@@ -9,7 +9,7 @@ phases:
               # Clone the GitHub repository, build, and deploy
 
               # Clone the repository to a temporary directory
-              sudo git clone https://github.com/armaanroohi/dt.git /tmp/deployment
+              sudo git clone https://github.com/armaanroohi/DevOps_Demo.git /tmp/deployment
 
               # Copy  the built files to the web server directory
               ls /tmp/deployment/
